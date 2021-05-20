@@ -1,0 +1,112 @@
+body {
+  /* padding-top: 50px */
+}
+
+nav {
+  /* height: auto; */
+  font-family: 'Pattaya', sans-serif;
+}
+
+li:hover {
+  background-color: #E27396;
+  border-radius: 5px;
+}
+
+a {
+  color: #ffffff;
+}
+
+h1 {
+  text-shadow: 2px 2px #000000a8;
+  font-family: 'Pattaya', sans-serif;
+}
+
+h2 {
+  font-family: 'Pattaya', sans-serif;
+}
+
+h5 {
+  font-family: 'Pattaya', sans-serif;
+}
+
+font-family: 'Open Sans', sans-serif;
+
+a:hover {
+  color: #B3DEE2 !important;
+}
+
+a:visited {
+  color: #000000 !important;
+}
+
+i:hover {
+  color: #B3DEE2;
+}
+
+.button-margin {
+  margin-right: 16px;
+}
+
+.center-a {
+  align-items: center;
+}
+
+.box {
+  margin: auto;
+  margin-top: 22vh;
+}
+
+.box-large {
+  margin: auto;
+  margin-top: 250px;
+}
+
+#home {
+  background-image: url("https://cdn.pixabay.com/photo/2016/11/23/15/24/couple-1853499_960_720.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: right;
+  scroll-margin-top: 1em;
+  padding-top: 20px;
+  border: 0px;
+}
+
+#fotos {
+  background-color: #E27396;
+  color: #EAF2D7;
+  scroll-margin-top: 1em;
+}
+
+#historia {
+  background-color: #E27396;
+  color: #EAF2D7;
+  padding: 35px;
+  padding-bottom: 45px;
+  scroll-margin-top: 1em;
+  font-family: 'Oswald', sans-serif;
+}
+
+#data-local {
+  background-color: #EAF2D7;
+  color: rgba(0, 0, 0, 0.822);
+  padding: 35px;
+  scroll-margin-top: 1em;
+  font-family: 'Oswald', sans-serif;
+}
+
+#links {
+  background-color: #E27396;
+  color: #EAF2D7;
+  padding: 15px;
+  padding-bottom: 45px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.icon-color {
+  color: #EAF2D7;
+}
+
+.footer {
+  font-family: 'Oswald', sans-serif;
+}
